@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello Peter!"
+echo "Hi Peter!"
